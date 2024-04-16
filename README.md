@@ -1,2 +1,4 @@
 # Pinterest-Clone
-Created a Pinterest-inspired clone page using HTML and CSS. Designed a visually appealing grid layout with hover effects for user interaction. Ensured seamless responsiveness across devices and browsers. Implemented semantic HTML markup and efficient CSS styling for optimal user experience.
+Implemented a responsive grid layout: Ensured the website adapts beautifully to any device, from desktops to mobile phones.
+Enhanced user interaction: Designed engaging hover effects that add a dynamic touch to the browsing experience.
+Prioritized clean code: Utilized semantic HTML for clear structure and efficient CSS for optimal performance across browsers.
