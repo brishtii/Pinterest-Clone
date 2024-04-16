@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #bd081c;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 20px; /* Adjust as needed */
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .search-bar {
+    flex-grow: 1;
+    margin: 0 20px; 
+  }
+  
+  .search-bar input[type="text"] {
+    width: 100%; 
+    padding: 8px;
+  }
+    
+  .user-icons {
+    display: flex;
+  }
+  
+  .user-icons a {
+    margin-left: 10px;
+  }
+  
+  .pin-grid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .pin {
+    width: 200px; /* Adjust as needed */
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .pin img {
+    width: 100%;
+    border-radius: 8px;
+  }
